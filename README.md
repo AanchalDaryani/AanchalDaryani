@@ -79,10 +79,9 @@ My long-term goal is to specialise in **FinTech fraud detection and credit analy
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AanchalDaryani&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalDaryani&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AanchalDaryani&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AanchalDaryani&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
